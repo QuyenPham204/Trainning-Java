@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48e62f37-3992-4027-9bfc-e164862588c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Baitap/src/OOP_School/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/Baitap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/Baitap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/School_list.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/School_list.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/School_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/School_list.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/src/Bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/src/Bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/src/Bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/src/Bai4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/src/OOP_School/HighSchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/src/OOP_School/HighSchool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/src/OOP_School/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/src/OOP_School/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/src/OOP_School/PrimarySchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/src/OOP_School/PrimarySchool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/src/OOP_School/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/src/OOP_School/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/src/OOP_School/SchoolFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/src/OOP_School/SchoolFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/src/OOP_School/SchoolInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/src/OOP_School/SchoolInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/src/OOP_School/SchoolManagementGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/src/OOP_School/SchoolManagementGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap/src/OOP_School/SecondarySchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap/src/OOP_School/SecondarySchool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/SinhVien/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/SinhVien/sinhvien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/Xe/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/Xe/XeVinfat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/bai4/HinhChuNhat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/bai4/circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/bai4/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/oop/bai1/ManagerOfficer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/oop/bai1/Officer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/oop/bai1/engineer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/oop/bai1/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/oop/bai1/staff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/oop/bai1/worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/oop/bai2/Document.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/oop/bai2/Journal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/oop/bai2/ManagerDocument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/oop/bai2/book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/oop/bai2/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/oop/bai2/newspaper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/thongtinxe/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/thongtinxe/vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/vidu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/.idea/libraries/JavaSE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1-20240219T065108Z-001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/build/classes/bt2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/build/classes/bt3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/build/classes/bt4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/build/classes/bt5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/build/classes/bt6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/build/classes/bt7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/build/classes/javase/JavaSE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/dist/JavaSE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/src/lab1/bt2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/src/lab1/bt3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/src/lab1/bt4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/src/lab1/bt5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/src/lab1/bt6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/Lab1/src/lab1/bt7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/out/production/Lab1-20240219T065108Z-001/bt2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/out/production/Lab1-20240219T065108Z-001/bt3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/out/production/Lab1-20240219T065108Z-001/bt4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/out/production/Lab1-20240219T065108Z-001/bt5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/out/production/Lab1-20240219T065108Z-001/bt6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-20240219T065108Z-001/out/production/Lab1-20240219T065108Z-001/bt7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP-Student/OOP-Student/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-manager-mvc-swing-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-manager-mvc-swing-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-manager-mvc-swing-master/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-manager-mvc-swing-master/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-manager-mvc-swing-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-manager-mvc-swing-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-manager-mvc-swing-master/.idea/restaurant-manager-mvc-swing-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../restaurant-manager-mvc-swing-master/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2nolvpiALLNvIeMSUYKWs00hnDf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/java/Training",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48e62f37-3992-4027-9bfc-e164862588c3" name="Changes" comment="" />
+      <created>1729647543376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729647543376</updated>
+      <workItem from="1729647544364" duration="178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
